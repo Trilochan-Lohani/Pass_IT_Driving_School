@@ -1,0 +1,106 @@
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.exe
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.dll.config
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.deps.json
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.runtimeconfig.json
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.pdb
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.AssemblyReference.cache
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.MSDATASRC.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.MDACVer.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.ADOMD.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.SystemMonitor.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.ResolveComReference.cache
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Admin_Form.resources
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Home_Form.resources
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.LogIn_Form.resources
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Properties.Resources.resources
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Registration_Form.resources
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.GenerateResource.cache
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.AssemblyInfoInputs.cache
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.AssemblyInfo.cs
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.CoreCompileInputs.cache
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.CopyComplete
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\refint\Pass_IT_Driving_School.dll
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.pdb
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.genruntimeconfig.cache
+C:\Users\mango\source\repos\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\ref\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.exe
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.AssemblyReference.cache
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.MSDATASRC.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.MDACVer.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.ADOMD.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.SystemMonitor.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.ResolveComReference.cache
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Admin_Form.resources
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.BookLesson.resources
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Home_Form.resources
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.LogIn_Form.resources
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.ProgressCard.resources
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Properties.Resources.resources
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Registration_Form.resources
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.GenerateResource.cache
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.AssemblyInfoInputs.cache
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.AssemblyInfo.cs
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.CoreCompileInputs.cache
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.CopyComplete
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\refint\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.pdb
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.dll.config
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.deps.json
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.runtimeconfig.json
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.pdb
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.genruntimeconfig.cache
+C:\Users\mango\OneDrive\Desktop\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\ref\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.exe
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.dll.config
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.deps.json
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.runtimeconfig.json
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\Pass_IT_Driving_School.pdb
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.AssemblyReference.cache
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.MSDATASRC.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.MDACVer.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.ADOMD.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Interop.SystemMonitor.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.ResolveComReference.cache
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Admin_Form.resources
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.BookLesson.resources
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Home_Form.resources
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.LogIn_Form.resources
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.ProgressCard.resources
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Properties.Resources.resources
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.Registration_Form.resources
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.GenerateResource.cache
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.AssemblyInfoInputs.cache
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.AssemblyInfo.cs
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.CoreCompileInputs.cache
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.csproj.CopyComplete
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\refint\Pass_IT_Driving_School.dll
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.pdb
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\Pass_IT_Driving_School.genruntimeconfig.cache
+C:\Users\mango\OneDrive\Desktop\Assignments\HCI Assignments\Pass_IT_Driving_School\Pass_IT_Driving_School\obj\Debug\net6.0-windows\ref\Pass_IT_Driving_School.dll
